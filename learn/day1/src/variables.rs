@@ -1,3 +1,6 @@
+// More info about variables here: https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html
+
+// Crate used for input and output in rust
 use std::io;
 
 fn main() {
