@@ -1,4 +1,5 @@
-// More nfo on day1 here: https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
+// More info on day1 here: https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
+// This file is about GUESSING GAME as provided in the rust ebook.
 
 // use `something` syntax is similar to `import something` syntax
 // in python. It is used to import something from other crates.
